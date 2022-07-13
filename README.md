@@ -36,7 +36,7 @@ Choose the Amazon Machine Image (AMI)
 Choose an Instance Type (m4.xlarge)
 Clone Flask app from git repository: 
 ● Install git - sudo yum update -y && sudo yum install git -y 
-● run - git clone git@github.com:dapinder19791/Capstone_Project.git
+● run - git clone git@github.com:<Your Git>
 NPM install on ec2 instance:
 •	npm install to update frontend dependencies - if any
 •	Run npm run build command to compile/build the frontend
